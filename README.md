@@ -8,7 +8,6 @@ Exam Tips:
  - Practice writing code on paper then you can type it exactly how you wrote it and compile.
  - For multiple choice review your quizzes
  - Long answer questions will be similar to the labs.
- - 
  
 More Python pratice:
  - https://www.codecademy.com/
