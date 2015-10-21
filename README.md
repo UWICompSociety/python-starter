@@ -15,3 +15,5 @@ More Python pratice:
 
 GOOD LUCK! :)
 
+#Want help or want to help?
+Feel free to post an issue onto the issue tracker if you see any bugs or have a question. A member of the Computing Society will get to you ASAP.
